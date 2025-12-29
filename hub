@@ -22,11 +22,11 @@ local Tabs = {
 
 -- ===== Info ===== --
 local SupportGroup = Tabs.Info:AddLeftGroupbox("Supported Games","list")
-SupportGroup:AddLabel("- 🏀ㆍbasketball-legends")
-SupportGroup:AddLabel("- ❓ㆍlucky-blocks-battlegrounds")
-SupportGroup:AddLabel("- 🏚️ㆍthe-storage")
-SupportGroup:AddLabel("- 🕯️ㆍviolence-district")
-SupportGroup:AddLabel("- 🏐ㆍvolleyball-legends")
+SupportGroup:AddLabel("🏀ㆍbasketball-legends")
+SupportGroup:AddLabel("❓ㆍlucky-blocks-battlegrounds")
+SupportGroup:AddLabel("🏚️ㆍthe-storage")
+SupportGroup:AddLabel("🕯️ㆍviolence-district")
+SupportGroup:AddLabel("🏐ㆍvolleyball-legends")
 
 local InfoGroup = Tabs.Info:AddRightGroupbox("Join Discord","help")
 InfoGroup:AddLabel("🔗 https://discord.gg/3NjyJjjXxF")
